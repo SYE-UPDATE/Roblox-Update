@@ -1,12 +1,20 @@
 {
   "entries": [
     {
-  "id": "2026-05-14-monetization-v1",
-  "publishedAt": 1747180800,
-  "date": "May 14, 2026",
-  "title": "🛒 New in the Store",
-  "body": "🛡 CITY INSURANCE — restore 50% of destroyed buildings on next login.\n🏗 PREMIUM PLOT — +25% income from every building, permanent.\n🚀 ROCKET PACKS — Starter (10×), Elite (5× VIP), Apocalypse (12× VIP).\n🛰 DEFENSE PACKS — Patriot (10× Mk I) and Shield Wall (5× Mk III).\n🎰 DAILY SPIN REROLL — skip the 24h cooldown.",
-  "highlight": true
+      "id": "2026-05-15-welcome",
+      "publishedAt": 1747267200,
+      "date": "May 15, 2026",
+      "title": "👋 Hey, you're awesome",
+      "body": "Real talk: you're already cooler than 95% of players just for reading patch notes 😎\n\nThis game is built FOR you. Found a bug? Got a wild idea for a new feature? Tap the 💬 FEEDBACK button on the LEFT side of your screen — every report is read, every suggestion is considered, and the best ones land in updates like the ones below.\n\nKeep crushing cities. 💥",
+      "highlight": true
+    },
+    {
+      "id": "2026-05-14-monetization-v1",
+      "publishedAt": 1747180800,
+      "date": "May 14, 2026",
+      "title": "🛒 New in the Store",
+      "body": "🛡 CITY INSURANCE — restore 50% of destroyed buildings on next login.\n🏗 PREMIUM PLOT — +25% income from every building, permanent.\n🚀 ROCKET PACKS — Starter (10×), Elite (5× VIP), Apocalypse (12× VIP).\n🛰 DEFENSE PACKS — Patriot (10× Mk I) and Shield Wall (5× Mk III).\n🎰 DAILY SPIN REROLL — skip the 24h cooldown.",
+      "highlight": true
     },
     {
       "id": "2026-05-14-peace-shield",

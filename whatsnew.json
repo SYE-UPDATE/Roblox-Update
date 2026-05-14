@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "id": "2026-05-14-peace-shield",
+      "publishedAt": 1747180800,
+      "date": "May 14, 2026",
+      "title": "🕊 Peace Pact + Shield Fix",
+      "body": "NEW PLAYERS are now auto-protected for 25 minutes — no more first-session griefing. The paid Spawn Protect gamepass also actually blocks incoming attacks now (it didn't before — paying customers were locked out of attacking AND still being killed). Refunds may apply for anyone who bought it pre-fix.",
+      "highlight": true
+    },
+    {
+      "id": "2026-05-14-tutorial-shop-hint",
+      "publishedAt": 1747177200,
+      "date": "May 14, 2026",
+      "title": "🚀 Buy Your First Rocket coaching",
+      "body": "After your tutorial kill, the SHOP button pulses gold with a 'TAP SHOP TO BUY A ROCKET' arrow. No more wondering what to do next.",
+      "highlight": false
+    },
+    {
+      "id": "2026-05-13-mobile-ui",
+      "publishedAt": 1747094400,
+      "date": "May 13, 2026",
+      "title": "📱 Bigger Mobile UI",
+      "body": "Hotbar slots are 40% bigger on phones (no more 31px microscope mode). The country picker now has a 'Pick Later' button so you can dive straight into the game.",
+      "highlight": false
+    }
+  ]
+}

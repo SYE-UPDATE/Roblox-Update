@@ -1,6 +1,22 @@
 {
   "entries": [
     {
+      "id": "2026-05-16-position-fix",
+      "publishedAt": 1747353600,
+      "date": "May 16, 2026",
+      "title": "🔧 Build Positions Locked In",
+      "body": "Big one: your buildings now save and load at the EXACT spot you placed them. No more 'I built it there, came back, it's clipping into other props' — that bug is dead. Old saves with duplicate buildings get an automatic cleanup pass with refunds to inventory.",
+      "highlight": true
+    },
+    {
+      "id": "2026-05-16-decor-freedom",
+      "publishedAt": 1747353600,
+      "date": "May 16, 2026",
+      "title": "🎨 Decorate Freely",
+      "body": "Decorations (flags, statues, signs, props) can now sit close together or stacked on top of other decor. Cluster them, layer them, go full interior designer mode. Buildings still respect clearance — but your aesthetic flex is unblocked.",
+      "highlight": false
+    },
+    {
       "id": "2026-05-15-welcome",
       "publishedAt": 1747267200,
       "date": "May 15, 2026",
